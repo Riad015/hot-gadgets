@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.carousel-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.row h1, .row h6{
+    padding-bottom: 25px;
+}
+.smartphone h3, .laptop h3{
+    margin-bottom: 100px;
+}
+.see-all{
+    color: #ff9d00;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 10px 20px gainsboro;
+}
+.categories-text{
+    text-align: center;
+    text-decoration-line: underline;
+    margin-bottom: 100px;
+}
+.boxx{
+    box-shadow: 5px 10px 20px gainsboro;
+    border-radius: 10px;
+    padding: 30px 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+    color: #ff9d00;
+}
